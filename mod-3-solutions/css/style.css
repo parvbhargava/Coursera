@@ -5,17 +5,17 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: rgba(200, 228, 40, 0.8);
 }
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color: rgb(106, 28, 233);
   padding-left: 25px;
 }
 
 .navbar-brand:hover{
-	color: white;
+	color: rgb(224, 163, 29);
 }
 
 .nav{
@@ -31,19 +31,19 @@
 }
 
 .navbar-toggle{
-	border: 2px solid white;
+	border: 2px solid rgb(161, 236, 149);
 	margin-right: 25px;
 }
 
 .icon-bar{
-	background-color: white;
+	background-color: rgb(78, 168, 228);
 }
 
 
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: #784eda;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
@@ -58,14 +58,14 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: white;
-	border-bottom: 1px solid black;
-	color: black;
+	background-color: rgb(18, 212, 83);
+	border-bottom: 1px solid rgb(9, 12, 11);
+	color: rgb(12, 35, 243);
 	display: block;
 }
 
 .menu-item:hover{
-	background-color: rgba(0,0,0,0.9);
+	background-color: rgba(87, 172, 120, 0.9);
 	color: rgba(0,0,0,0.4);
 }
 
@@ -80,7 +80,7 @@ li{
 	width: auto;
 	height: auto;
 	color: black;
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(22, 207, 93, 0.9);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
 }
